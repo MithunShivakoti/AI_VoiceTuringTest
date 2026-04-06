@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sav
+*.pkl
+*.pickle
+*.png
+*.wav
+main.py
+as.txt
