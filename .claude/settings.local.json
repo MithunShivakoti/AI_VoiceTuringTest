@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls c:/Users/mithu/Downloads/aivoiceturingtest/*.py)",
-      "Bash(ls c:/Users/mithu/Downloads/aivoiceturingtest/*.js)"
-    ]
-  }
-}
